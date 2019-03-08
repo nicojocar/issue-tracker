@@ -1,0 +1,15 @@
+#header {
+  background-color: #041735;
+  color: #FFFFFF;
+  padding: 1.5rem;
+  font-weight: 800;
+  font-size: 2rem;
+  border-bottom: solid 2px #4204dd;
+}
+
+#footer {
+  background-color: #041735;
+  color: #FFFFFF;
+  padding: 1rem;
+  text-align: right;
+}
